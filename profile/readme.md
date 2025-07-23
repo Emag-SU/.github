@@ -6,3 +6,6 @@ Cerchi l'hub con gli applicativi web?
 
 Sei qui per l'installer di neoHMI?
 - [link](https://github.com/Emag-SU/neoHMI-download-script)
+
+Sei qui per l'installer di Emag SU Monitoring?
+- [link](https://github.com/Emag-SU/ESUMonitoring-download-script)
